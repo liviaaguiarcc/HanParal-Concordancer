@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Output files
+outputs/
+*.xlsx
+*.xlsm
+*.png
+*.pdf
+!sample_data/*.xlsx
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private corpora — never commit copyrighted texts
+corpus/
+private/
+data/
+!sample_data/
