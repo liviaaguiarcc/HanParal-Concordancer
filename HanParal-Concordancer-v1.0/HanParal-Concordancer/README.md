@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3.8+-C07A5A?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.8+"/>
 <img src="https://img.shields.io/badge/License-MIT-E0B090?style=for-the-badge" alt="MIT License"/>
 <img src="https://img.shields.io/badge/Google_Colab-Ready-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+<img src="https://zenodo.org/badge/1284449661.svg" alt="DOI"/>
 
 # 🌸 HanParal
 
