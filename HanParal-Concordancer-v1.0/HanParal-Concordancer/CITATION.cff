@@ -6,6 +6,7 @@ version: "1.0"
 date-released: "2026"
 license: MIT
 repository-code: "https://github.com/liviaaguiarcc/HanParal-Concordancer"
+doi: 10.5281/zenodo.21048473
 abstract: >
   HanParal is a Python-based concordance tool for comparative translation
   analysis of culture-specific items (CSIs) in manually aligned multilingual
