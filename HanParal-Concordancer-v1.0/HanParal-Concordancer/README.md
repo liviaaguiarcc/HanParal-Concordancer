@@ -178,9 +178,9 @@ Consulte [`CITATION.md`](CITATION.md) para os formatos ABNT e BibTeX.
 
 ## Background
 
-**EN** — HanParal was developed as part of an undergraduate thesis in Translation Studies (Letras–Tradução) at the Universidade Federal da Paraíba (UFPB), Brazil. The original corpus involved culture-specific items across Portuguese, English and Spanish translations of a Korean literary source text, using the Aixelá (1996) framework. From v0.2 onwards, the tool was made fully language-neutral and can be used with any manually aligned multilingual parallel corpus.
+**EN** — HanParal was developed as part of an undergraduate thesis in Translation Studies (Tradução) at the Universidade Federal da Paraíba (UFPB), Brazil. The original corpus involved culture-specific items across Portuguese, English and Spanish translations of a Korean literary source text, using the Aixelá (1996) framework. From v0.2 onwards, the tool was made fully language-neutral and can be used with any manually aligned multilingual parallel corpus.
 
-**PT** — HanParal foi desenvolvido como parte de uma monografia de graduação em Letras–Tradução na Universidade Federal da Paraíba (UFPB), Brasil. O corpus original envolvia itens culturais específicos (ICEs) em traduções para o português, o inglês e o espanhol de um texto literário coreano de partida, com base no quadro teórico de Aixelá (1996). A partir da versão 0.2, a ferramenta foi tornada completamente independente de língua e pode ser utilizada com qualquer corpus paralelo multilíngue alinhado manualmente.
+**PT** — HanParal foi desenvolvido como parte de uma monografia de graduação em Tradução na Universidade Federal da Paraíba (UFPB), Brasil. O corpus original envolvia itens culturais específicos (ICEs) em traduções para o português, o inglês e o espanhol de um texto literário coreano de partida, com base no quadro teórico de Aixelá (1996). A partir da versão 0.2, a ferramenta foi tornada completamente independente de língua e pode ser utilizada com qualquer corpus paralelo multilíngue alinhado manualmente.
 
 ---
 
@@ -191,5 +191,5 @@ MIT © 2026 Lívia Aguiar Correia Cavalcanti — see [`LICENSE`](LICENSE).
 ---
 
 <div align="center">
-<sub>built with 🌸 for translation studies researchers everywhere</sub>
+<sub>built with 🌸 by 닐리 쌤</sub>
 </div>
