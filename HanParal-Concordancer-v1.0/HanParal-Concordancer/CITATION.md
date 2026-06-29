@@ -6,7 +6,7 @@
 CAVALCANTI, Lívia Aguiar Correia. HanParal: ferramenta de concordância multilíngue
 para análise tradutória de itens culturais específicos. Versão 1.0. João Pessoa: UFPB,
 2026. Disponível em: https://github.com/liviaaguiarcc/HanParal-Concordancer.
-Acesso em: [data de acesso].
+DOI: https://doi.org/10.5281/zenodo.21048473. Acesso em: [data de acesso].
 ```
 
 ## BibTeX
@@ -20,7 +20,8 @@ Acesso em: [data de acesso].
   license      = {MIT},
   orcid        = {https://orcid.org/0000-0003-3707-9966},
   institution  = {Universidade Federal da Paraíba (UFPB)},
-  url          = {https://github.com/liviaaguiarcc/HanParal-Concordancer}
+  url          = {https://github.com/liviaaguiarcc/HanParal-Concordancer},
+  doi = {10.5281/zenodo.21048473}
 }
 ```
 
