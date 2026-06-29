@@ -25,6 +25,3 @@ Acesso em: [data de acesso].
 ```
 
 ---
-
-After a Zenodo DOI is issued, the ABNT citation will be updated to include it.
-Após a emissão do DOI via Zenodo, a referência ABNT será atualizada para incluí-lo.
