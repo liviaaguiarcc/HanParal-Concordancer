@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/Python-3.8+-C07A5A?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.8+"/>
 <img src="https://img.shields.io/badge/License-MIT-E0B090?style=for-the-badge" alt="MIT License"/>
 <img src="https://img.shields.io/badge/Google_Colab-Ready-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-<img src="https://img.shields.io/badge/Streamlit-Local_App-8B4A38?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Local App"/>
 <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21048473-8B4A38?style=for-the-badge" alt="DOI"/>
 
 # 🌸 HanParal
@@ -37,7 +36,7 @@ corpus.xlsx
      ▼
 Phase 1 / Fase 1
   ├── upload corpus
-  ├── choose search mode: single_term · multi_term
+  ├── choose search mode: single_term · multi_term · category
   ├── KWIC context window (source + target texts)
   ├── optional: equivalent detection
   ├── prepare annotation table
@@ -142,10 +141,6 @@ HanParal-Concordancer/
 ├── sample_data/
 │   ├── sample_corpus.xlsx                    ← invented test data / dados de teste fictícios
 │   └── sample_annotated_occurrences.xlsx
-├── app/
-│   └── streamlit_app.py                      ← local no-code interface / interface local sem código
-├── run_hanparal.bat                          ← Windows local launcher / inicializador local para Windows
-├── run_hanparal.sh                           ← Mac/Linux local launcher / inicializador local para Mac/Linux
 ├── README.md
 ├── CITATION.md
 ├── CITATION.cff
@@ -158,38 +153,12 @@ HanParal-Concordancer/
 ## Installation / Instalação
 
 ```bash
-pip install -r requirements.txt
+pip install pandas openpyxl matplotlib numpy
 ```
 
-**EN** — No manual installation is needed for Google Colab. The first notebook cell installs the required dependencies automatically.
+**EN** — No installation needed for Google Colab — cell 1 handles it automatically.
 
-**PT** — No Google Colab, nenhuma instalação manual é necessária. A primeira célula do notebook instala automaticamente as dependências necessárias.
-
-### Local Streamlit interface / Interface local em Streamlit
-
-**EN** — To use HanParal as a local no-code interface, install the dependencies and run:
-
-```bash
-python -m streamlit run app/streamlit_app.py
-```
-
-**PT** — Para usar o HanParal como uma interface local sem código, instale as dependências e execute:
-
-```bash
-python -m streamlit run app/streamlit_app.py
-```
-
-The app will open in your browser at:
-
-```text
-http://localhost:8501
-```
-
-A aplicação será aberta no navegador em:
-
-```text
-http://localhost:8501
-```
+**PT** — No Google Colab, nenhuma instalação manual é necessária — a célula 1 faz isso automaticamente.
 
 ---
 
@@ -223,5 +192,5 @@ MIT © 2026 Lívia Aguiar Correia Cavalcanti — see [`LICENSE`](LICENSE).
 ---
 
 <div align="center">
-<sub>built with care by 닐리 쌤 🌸 </sub>
+<sub>built with 🌸 by 닐리 쌤</sub>
 </div>
