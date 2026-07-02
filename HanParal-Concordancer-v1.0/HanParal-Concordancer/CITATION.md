@@ -3,7 +3,7 @@
 ## ABNT
 
 ```
-CAVALCANTI, Lívia Aguiar Correia. HanParal: ferramenta de concordância multilíngue
+CAVALCANTI, L.A.C. HanParal: ferramenta de concordância multilíngue
 para análise tradutória de itens culturais específicos. Versão 1.0. João Pessoa: UFPB,
 2026. Disponível em: https://github.com/liviaaguiarcc/HanParal-Concordancer.
 DOI: https://doi.org/10.5281/zenodo.21048473. Acesso em: [data de acesso].
